@@ -1,0 +1,30 @@
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 90vh;
+  align-items: center;
+  background-image: url('https://t4.ftcdn.net/jpg/01/04/05/01/360_F_104050111_cRQ4DBP7xvPBuPKeWSN2aXMLTCcN5UTY.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  text-align: center;
+}
+
+.marginInput {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  height: 30px;
+  width: 300px;
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mainInput {
+  height: 30px;
+  width: 300px;
+  font-size: 17px;
+}
